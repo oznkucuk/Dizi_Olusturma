@@ -1,0 +1,16 @@
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\bin\Debug\net5.0\dizi_ornekleri1.exe
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\bin\Debug\net5.0\dizi_ornekleri1.deps.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\bin\Debug\net5.0\dizi_ornekleri1.runtimeconfig.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\bin\Debug\net5.0\dizi_ornekleri1.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\bin\Debug\net5.0\dizi_ornekleri1.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\bin\Debug\net5.0\dizi_ornekleri1.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\dizi_ornekleri1.csproj.AssemblyReference.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\dizi_ornekleri1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\dizi_ornekleri1.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\dizi_ornekleri1.AssemblyInfo.cs
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\dizi_ornekleri1.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\dizi_ornekleri1.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\refint\dizi_ornekleri1.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\dizi_ornekleri1.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\dizi_ornekleri1.genruntimeconfig.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\dizi_ornekleri1\obj\Debug\net5.0\ref\dizi_ornekleri1.dll
